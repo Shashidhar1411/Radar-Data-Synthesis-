@@ -54,8 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Ian Goodfellow for the foundational GAN paper.
-- Contributors and collaborators of the Radar Data Synthesis project.
-
----
-
-Feel free to customize this README file according to your specific project details and requirements.
