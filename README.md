@@ -47,10 +47,6 @@ To run this project, you will need:
 
 - [Generative Adversarial Networks (GANs) by Ian Goodfellow](GAN_paper.pdf)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Ian Goodfellow for the foundational GAN paper.
